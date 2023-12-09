@@ -3,7 +3,7 @@
 # 哪吒的4个参数
 NEZHA_SERVER="data.vps-jdkz.tk"
 NEZHA_PORT="443"
-NEZHA_KEY="afaiT379y3YUwr3kBS"
+NEZHA_KEY="Ph4AVia8AtBqXiZNt2"
 NEZHA_TLS="1"
 
 # 检测是否已运行
